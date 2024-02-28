@@ -1,2 +1,2 @@
 # University-Management
-This will helps you to store the information of University Students and Staff in efficient and proper format
+This will helps you to store the information of Student and Staff of University in efficient and proper format
